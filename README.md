@@ -1,0 +1,1 @@
+# Strukdat-Modul-3-Class-Diagram
