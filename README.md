@@ -25,10 +25,14 @@ Program ini dirancang untuk membantu pengelolaan:
 
 ## Class Diagram
 
+![image link](gambar/Class Diagram(rental ps))
 
 <br/><br/>
 
 ## Output
+
+![image link](gambar/Output.png)
+
 
 ## Prinsip OOP
 
