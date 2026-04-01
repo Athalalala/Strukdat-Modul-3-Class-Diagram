@@ -25,7 +25,7 @@ Program ini dirancang untuk membantu pengelolaan:
 
 ## Class Diagram
 
-![image link](gambar/Class_Diagram_rental_ps)
+![image link](gambar/Class_Diagram_rental_ps.png)
 
 <br/><br/>
 
