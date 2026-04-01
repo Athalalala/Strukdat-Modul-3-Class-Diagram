@@ -25,6 +25,9 @@ Program ini dirancang untuk membantu pengelolaan:
 
 ## Class Diagram
 
+
+<br/><br/>
+
 ## Output
 
 ## Prinsip OOP
