@@ -1,4 +1,4 @@
-# Strukdat-Modul-3-Class-Diagram
+# Strukdat-week-4-Class-Diagram
 <br/>
 
 ## Deskripsi
